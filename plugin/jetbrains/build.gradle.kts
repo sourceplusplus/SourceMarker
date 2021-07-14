@@ -4,7 +4,7 @@ plugins {
     id("java")
     id("org.jetbrains.kotlin.jvm")
     id("org.jetbrains.intellij") version "1.1.3"
-    id("org.jetbrains.changelog") version "1.1.2"
+    id("org.jetbrains.changelog") version "1.2.0"
     id("maven-publish")
 }
 
